@@ -1,20 +1,14 @@
-## Welcome 👋
+### Welcome 👋
 
 Hi, I am John!
 
-## About ME
+### About ME
 - A student of computer science with focus on low level programming. That includes
 operating systems, networks, and understanding how computers actually work :D.
 - In my free time I study teaching — so I can help others as others helped me.
 
-## Spoken Languages:
-| Name     | Level | Description    |
-|----------|-------|----------------|
-| Slovak   | C2    | Native Speaker |
-| Enghlish | C1    | Advanced       |
-| Spanish  | B1    | Beginner       |
 
-## Programming Languages:
+### Programming Languages:
 | Name    | Version      | Level        |
 |---------|--------------|--------------|
 | Haskell | GHC 9.0      | Intermediate |
@@ -24,16 +18,16 @@ operating systems, networks, and understanding how computers actually work :D.
 | Bash    | 5.x          | Intermediate |
 | Rust    | 1.88         | Novice       |
 
-## Education:
+### Education:
 - [Jur Hronec Grammar School](https://www.gjh.sk/o-skole/gymnazium-jura-hronca)
 - [Faculty of Informatics Masaryk University](https://www.fi.muni.cz/index.html.en)
 
-## Projects:
+### Projects:
 - Terminal Text Editor
 - RSS Feed Server
 - With more coming soon!
 
-## Hobbies & Interests:
+### Hobbies & Interests:
 1. [Advent of Code](https://github.com/the-404-john/Advent-of-Code)
 2. [LeetCode](https://leetcode.com/u/the_john/)
 3. [Books](https://github.com/the-404-john/Book-list)
