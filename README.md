@@ -1,16 +1,39 @@
-## Hi there 👋
+## Welcome 👋
 
-<!--
-**the-404-john/the-404-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am John!
 
-Here are some ideas to get you started:
+## About ME
+- A student of computer science with focus on low level programming. That includes
+operating systems, networks, and understanding how computers actually work :D.
+- In my free time I study teaching — so I can help others as others helped me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Spoken Languages:
+| Name     | Level | Description    |
+|----------|-------|----------------|
+| Slovak   | C2    | Native Speaker |
+| Enghlish | C1    | Advanced       |
+| Spanish  | B1    | Beginner       |
+
+## Programming Languages:
+| Name    | Version      | Level        |
+|---------|--------------|--------------|
+| Haskell | GHC 9.0      | Intermediate |
+| Python  | 3.12         | Advanced     |
+| C       | 99 - 11 - 23 | Advanced     |
+| C++     | 20 - 23      | Intermediate |
+| Bash    | 5.x          | Intermediate |
+| Rust    | 1.88         | Novice       |
+
+## Education:
+- [Jur Hronec Grammar School](https://www.gjh.sk/o-skole/gymnazium-jura-hronca)
+- [Faculty of Informatics Masaryk University](https://www.fi.muni.cz/index.html.en)
+
+## Projects:
+- Terminal Text Editor
+- RSS Feed Server
+- With more coming soon!
+
+## Hobbies & Interests:
+1. [Advent of Code](https://github.com/the-404-john/Advent-of-Code)
+2. [LeetCode](https://leetcode.com/u/the_john/)
+3. [Books](https://github.com/the-404-john/Book-list)
