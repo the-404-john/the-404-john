@@ -1,4 +1,7 @@
-## Hi, I am John! 👋
+<h1 align="center">Hi, I am John! 👋</h1>
+<div align="center">
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&width=435&lines=C23;C%2B%2B20;Rust;Python+3;Haskell" alt="Typing SVG" />
+</div>
 
 ### About Me
 - A student of computer science with focus on low level programming —
