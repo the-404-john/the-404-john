@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am John! 👋</h1>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=600&duration=2000&pause=1000&width=600&lines=C23;C%2B%2B20;Rust;Python+3;Haskell" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=2000&pause=1000&color=83BDE2&center=true&width=600&height=60&lines=C23;C%2B%2B20;Rust;Bash;Python+3;Haskell" alt="Typing SVG" />
 </div>
 
 ### About Me
